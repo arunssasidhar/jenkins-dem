@@ -1,9 +1,9 @@
 pipeline {
     agent any
-    triggers {}
-    options {}
-    parameters {}
-    tools {}
+    //triggers {}
+    //options {}
+    //parameters {}
+    //tools {}
 
     stages {
         stage('Build') {
